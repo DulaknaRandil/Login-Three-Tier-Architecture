@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming projects\\.NET\\Login3Tier\\Login3Tier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{625D49E0-C1AB-421C-9DE2-CF87ED41F924}|LoginUI\\LoginUI.csproj|D:\\Programming projects\\.NET\\Login3Tier\\Login3Tier\\loginui\\mainpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{625D49E0-C1AB-421C-9DE2-CF87ED41F924}|LoginUI\\LoginUI.csproj|solutionrelative:loginui\\mainpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625D49E0-C1AB-421C-9DE2-CF87ED41F924}|LoginUI\\LoginUI.csproj|D:\\Programming projects\\.NET\\Login3Tier\\Login3Tier\\loginui\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625D49E0-C1AB-421C-9DE2-CF87ED41F924}|LoginUI\\LoginUI.csproj|solutionrelative:loginui\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625D49E0-C1AB-421C-9DE2-CF87ED41F924}|LoginUI\\LoginUI.csproj|d:\\programming projects\\.net\\login3tier\\login3tier\\loginui\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{625D49E0-C1AB-421C-9DE2-CF87ED41F924}|LoginUI\\LoginUI.csproj|solutionrelative:loginui\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625D49E0-C1AB-421C-9DE2-CF87ED41F924}|LoginUI\\LoginUI.csproj|D:\\Programming projects\\.NET\\Login3Tier\\Login3Tier\\loginui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{625D49E0-C1AB-421C-9DE2-CF87ED41F924}|LoginUI\\LoginUI.csproj|solutionrelative:loginui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA6A5FC-BF0E-49B1-8FC7-7B676180AAD8}|DataAccessLayer\\DataAccessLayer.csproj|D:\\Programming projects\\.NET\\Login3Tier\\Login3Tier\\dataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA6A5FC-BF0E-49B1-8FC7-7B676180AAD8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71F10AA-8166-4056-ADAB-8DC249E95EAE}|MiddleLayer\\MiddleLayer.csproj|D:\\Programming projects\\.NET\\Login3Tier\\Login3Tier\\middlelayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71F10AA-8166-4056-ADAB-8DC249E95EAE}|MiddleLayer\\MiddleLayer.csproj|solutionrelative:middlelayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\Login3Tier\\Login3Tier\\LoginUI\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "LoginUI\\Login.aspx.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\Login3Tier\\Login3Tier\\LoginUI\\Login.aspx.cs",
+              "RelativeToolTip": "LoginUI\\Login.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T09:53:13.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\Login3Tier\\Login3Tier\\DataAccessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Class1.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\Login3Tier\\Login3Tier\\DataAccessLayer\\Class1.cs",
+              "RelativeToolTip": "DataAccessLayer\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T21:07:28.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\Login3Tier\\Login3Tier\\LoginUI\\Web.config",
+              "RelativeDocumentMoniker": "LoginUI\\Web.config",
+              "ToolTip": "D:\\Programming projects\\.NET\\Login3Tier\\Login3Tier\\LoginUI\\Web.config",
+              "RelativeToolTip": "LoginUI\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-04T09:49:35.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\Login3Tier\\Login3Tier\\LoginUI\\Login.aspx",
+              "RelativeDocumentMoniker": "LoginUI\\Login.aspx",
+              "ToolTip": "D:\\Programming projects\\.NET\\Login3Tier\\Login3Tier\\LoginUI\\Login.aspx",
+              "RelativeToolTip": "LoginUI\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-04T09:47:01.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.aspx",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\Login3Tier\\Login3Tier\\LoginUI\\MainPage.aspx",
+              "RelativeDocumentMoniker": "LoginUI\\MainPage.aspx",
+              "ToolTip": "D:\\Programming projects\\.NET\\Login3Tier\\Login3Tier\\LoginUI\\MainPage.aspx",
+              "RelativeToolTip": "LoginUI\\MainPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-04T09:56:13.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\Login3Tier\\Login3Tier\\MiddleLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "MiddleLayer\\Class1.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\Login3Tier\\Login3Tier\\MiddleLayer\\Class1.cs",
+              "RelativeToolTip": "MiddleLayer\\Class1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAWwAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T07:42:24.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

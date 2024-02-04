@@ -1,0 +1,15 @@
+D:\Programming projects\.NET\Login3Tier\Login3Tier\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Programming projects\.NET\Login3Tier\Login3Tier\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Programming projects\.NET\Login3Tier\Login3Tier\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Programming projects\.NET\Login3Tier\Login3Tier\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Programming projects\.NET\Login3Tier\Login3Tier\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Programming projects\.NET\Login3Tier\Login3Tier\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Programming projects\.NET\Login3Tier\Login3Tier\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Programming projects\.NET\Login3Tier\Login3Tier\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Programming projects\.NET\Login3Tier\Login3Tier\DataAccessLayer\bin\Debug\System.ValueTuple.dll
+D:\Programming projects\.NET\Login3Tier\Login3Tier\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Programming projects\.NET\Login3Tier\Login3Tier\DataAccessLayer\bin\Debug\System.Memory.dll
+D:\Programming projects\.NET\Login3Tier\Login3Tier\DataAccessLayer\bin\Debug\System.Buffers.dll
+D:\Programming projects\.NET\Login3Tier\Login3Tier\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programming projects\.NET\Login3Tier\Login3Tier\DataAccessLayer\bin\Debug\System.Numerics.Vectors.dll
+D:\Programming projects\.NET\Login3Tier\Login3Tier\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete

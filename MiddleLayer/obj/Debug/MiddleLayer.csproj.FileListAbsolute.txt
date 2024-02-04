@@ -1,0 +1,9 @@
+D:\Programming projects\.NET\Login3Tier\Login3Tier\MiddleLayer\obj\Debug\MiddleLayer.csproj.AssemblyReference.cache
+D:\Programming projects\.NET\Login3Tier\Login3Tier\MiddleLayer\obj\Debug\MiddleLayer.csproj.CoreCompileInputs.cache
+D:\Programming projects\.NET\Login3Tier\Login3Tier\MiddleLayer\bin\Debug\MiddleLayer.dll
+D:\Programming projects\.NET\Login3Tier\Login3Tier\MiddleLayer\bin\Debug\MiddleLayer.pdb
+D:\Programming projects\.NET\Login3Tier\Login3Tier\MiddleLayer\bin\Debug\DataAccessLayer.dll
+D:\Programming projects\.NET\Login3Tier\Login3Tier\MiddleLayer\bin\Debug\DataAccessLayer.pdb
+D:\Programming projects\.NET\Login3Tier\Login3Tier\MiddleLayer\obj\Debug\MiddleLayer.csproj.CopyComplete
+D:\Programming projects\.NET\Login3Tier\Login3Tier\MiddleLayer\obj\Debug\MiddleLayer.dll
+D:\Programming projects\.NET\Login3Tier\Login3Tier\MiddleLayer\obj\Debug\MiddleLayer.pdb
